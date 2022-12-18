@@ -1,6 +1,7 @@
-# Project Name
+# Project Name Northeast-American-Backyard-Bird-Identifier
 
  Add short description of project here > 
+The AI identifies 5 types of backyard birds in the northeastern U.S using image classification.  
 
 ![add image descrition here](direct image link here)
 
