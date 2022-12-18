@@ -5,6 +5,7 @@ The AI identifies 5 of the most common types of backyard birds in the northeaste
 
 
 ![add image descrition here](direct image link here)
+![add image descrition here](direct image link here)
 
 ## The Algorithm
 
