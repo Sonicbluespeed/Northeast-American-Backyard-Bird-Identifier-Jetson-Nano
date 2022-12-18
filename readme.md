@@ -5,7 +5,7 @@ The AI identifies 5 of the most common types of backyard birds in the northeaste
 
 
 ![add image descrition here](direct image link here)
-![add image descrition here](direct image link here)
+![add image descrition here](https://github.com/Sonicbluespeed/Northeast-American-Backyard-Bird-Identifier-Jetson-Nano/blob/master/Blue_Jay_bird_detection)
 
 ## The Algorithm
 
