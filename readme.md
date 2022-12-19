@@ -28,6 +28,6 @@ wget https://github.com/Sonicbluespeed/Northeast-American-Backyard-Bird-Identifi
 6. Classify a bird image using the command:
 imagenet.py --model=./resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt test/Blue\ Jay/dncygwtjva.jpg bird.jpg
 
-The model parameter points to the trained model from the project directory.  The labels parameter points to the labels file from the project directory.  The test directory contains the test images to be used.  The output will be in the bird.jpg in the current directory.
+The model parameter points to the trained model from the project directory.  The labels parameter points to the labels file from the project directory.  The path to a test image in the test directory is given.  The output will be in the bird.jpg in the current directory.
 
 [View a video explanation here](video link)
