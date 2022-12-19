@@ -30,5 +30,5 @@ imagenet.py --model=./resnet18.onnx --input_blob=input_0 --output_blob=output_0 
 
 The model parameter points to the trained model from the project directory.  The labels parameter points to the labels file from the project directory.  The path to a test image in the test directory is given.  The output will be in the bird.jpg in the current directory.
 
-(video link)
+video demonstration link:
 (https://youtu.be/kdeJSFxrG3c)
